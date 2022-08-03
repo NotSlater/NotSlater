@@ -12,7 +12,7 @@
 
 
 
-- I’m currently working on **Python Automation & Game Hacking**
+- I’m currently working on **Python Automation, Game Hacking, and Reverse Engineering**
 
 - Support/Help or Contact **Discord: NotSlater#0999**
 
