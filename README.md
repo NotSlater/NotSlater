@@ -1,6 +1,6 @@
 # Slater
 <h1 align="center">Welcome! I'm Slater</h1>
-<h3 align="center">C++ > C#</h3>
+<h3 align="center">Python Main</h3>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NotSlater)
 
