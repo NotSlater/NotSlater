@@ -14,12 +14,12 @@
 
 - I’m currently working on **Python Automation, Game Hacking, and Reverse Engineering**
 
-- Support/Help or Contact **Discord: NotSlater#0999**
+- Support/Help or Contact **Discord: slater#0666**
 
 - Fun fact **I have been coding for 4 years!**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://en.wikipedia.org/wiki/Python" target="_blank"> 
+<p align="left"> <a href="[https://en.wikipedia.org/wiki/Python](https://en.wikipedia.org/wiki/Python_(programming_language))" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="[https://en.wikipedia.org/wiki/python](https://en.wikipedia.org/wiki/C%2B%2B)" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> 
